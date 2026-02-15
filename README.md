@@ -1,0 +1,2 @@
+# Cognitive-Bio-Decoder-Enhancing-Scientific-Literacy-through-Structural-Linguistic-Analysis
+Cognitive Bio-Decoder solves biological terminology mastery. Unlike dictionaries, our AI platform via Google Gemini performs real-time morphemic analysis. A spaced repetition algorithm based on the Ebbinghaus curve replaces rote learning with active understanding, enhancing scientific literacy and exam readiness for students.
